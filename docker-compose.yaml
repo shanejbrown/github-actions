@@ -1,0 +1,5 @@
+services:
+  web1:
+    image: shanejbrown/github-actions
+    ports:
+      - "8080:8080"
